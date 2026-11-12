@@ -1,0 +1,52 @@
+FOUR FREE WINDOWS APPS
+======================
+Nothing to install. Unzip this folder anywhere (Desktop, Documents, a USB stick), then double-click an app.
+Each one opens in its own window using Microsoft Edge, which comes with Windows 10 and 11.
+Closing the window closes the app.
+
+FIRST TIME YOU OPEN ONE
+Windows may say "Windows protected your PC" because these apps aren't from the Microsoft Store.
+Click "More info", then "Run anyway". You only have to do this once per app.
+
+
+1. MarketTerminal.exe  (ready to use, no sign-up)
+   Four apps in one; open the other three from the buttons along the top:
+   - Market Terminal: stocks, bonds, currencies, commodities, the economy and market news.
+     Type a ticker such as AAPL to see a company's charts, financials, analyst ratings and more.
+   - Portfolio Lab: test how a mix of investments would have done in the past.
+   - Signal Monitor: see when a stock is suddenly getting attention online.
+   - Influence Watch: who is pushing which story in the news, foreign-agent and lobbying records,
+     stock trades by members of Congress, company insiders' trades, and federal contracts.
+     (Optional: to see insiders' buy and sell amounts, add your email under HOW IT WORKS > Settings.
+     It is only sent to the SEC, which asks apps for a contact address.)
+
+2. BusinessClassFinder.exe  (needs a free SerpApi key)
+   Business-class fares from Washington DC, New York and Chicago to Europe and Asia, with hotels and
+   whether to pay with cash or points.
+   Setup: sign up at https://serpapi.com/users/sign_up, copy your key from
+   https://serpapi.com/manage-api-key, and paste it into the app. The free plan includes a limited number
+   of searches each month; the app shows how many you have left.
+
+3. UsedCarFinder.exe  (needs a free MarketCheck key)
+   Search used cars by type, years and mileage (nationwide or near your ZIP) and see which ones are
+   priced below similar cars, plus recalls and owner complaints.
+   Setup: get a free key at https://www.marketcheck.com/sign-up and paste it into the app.
+
+4. LastMinuteTickets.exe  (needs a free SeatGeek and/or Ticketmaster key)
+   Games, concerts, shows and comedy near you over the next few days: the cheapest seat right now,
+   face value, price drops, and price alerts, with buttons for Gametime, SeatGeek and Ticketmaster.
+   Starts on Washington, DC; change the city or ZIP code in Settings.
+   Setup (one or both, a couple of minutes each):
+   - SeatGeek: https://seatgeek.com/account/develop > create an app > copy the "Client ID".
+   - Ticketmaster: https://developer-acct.ticketmaster.com/user/register > My Apps > copy the "Consumer Key".
+
+
+YOUR DATA
+Your keys, settings and saved searches stay on your own PC, in
+C:\Users\<you>\AppData\Local\<app name>. They are only sent to the service each key belongs to.
+To carry them on a USB stick instead, make an empty folder next to the app named:
+  MarketTerminal-data / BusinessClassFinder-data / UsedCarFinder-data / LastMinuteTickets-data
+Anyone who has that folder can use your keys, so don't share it.
+
+The apps use free public data, may be wrong or out of date, and are not financial advice.
+Always check prices on the airline, dealer or ticket site before buying.
